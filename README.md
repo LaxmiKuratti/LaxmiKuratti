@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi, I'm Laxmi Kuratti 👋
 
-<!--
-**LaxmiKuratti/LaxmiKuratti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.E Graduate
+🐍 Skills: Python (Basics)
+📚 Currently Learning: Full Stack Development
+📍 Hubballi, Karnataka — Open to Bangalore / Remote Internships
+📫 laxmikuratti093@gmail.com
 
-Here are some ideas to get you started:
+### What I'm working on
+- Improving Python concepts daily
+- Building small Python projects
+- Learning GitHub & development basics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Goal
+To get a Python Developer Intern role and grow into Full Stack Developer.
